@@ -1,0 +1,11 @@
+.card {
+  background: #fff;
+  margin-top: 30px;
+  margin-right: 25px;
+  box-shadow: 0 8px 6px gray, 0 8px 6px gray;
+}
+
+.card > .img-container > img {
+  height: 350px;
+  width: 350px;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/TasHe.jpg",
+    "name": "Tasmanian Devil",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/Bugs.jpg",
+    "name": "Bugs Bunny",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/DuckDodgers.png",
+    "name": "Duck Dodgers",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/WitchHazel.png",
+    "name": "Witch Hazel",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/PorkyPig.png",
+    "name": "Porky Pig",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/RoadRunner.png",
+    "name": "Road Runner",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/Foghorn.png",
+    "name": "Foghorn Leghorn",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/Fifi.jpg",
+    "name": "Fifi La Fume",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/DaffyDuck.png",
+    "name": "Daffy Duck",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/Coyote.gif",
+    "name": "Wile E. Coyote",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/TasShe.jpg",
+    "name": "Tasmanian She Devil",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/ElmerFudd.gif",
+    "name": "Elmer Fudd",
+    "clicked": false
+  }
+]
