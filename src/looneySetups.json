@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "image": "./assets/images/TasHe.jpg",
+    "image": "./assets/images/TasHe.png",
     "name": "Tasmanian Devil",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "./assets/images/Bugs.jpg",
+    "image": "./assets/images/Bugs.png",
     "name": "Bugs Bunny",
     "clicked": false
   },
@@ -43,7 +43,7 @@
   },
   {
     "id": 8,
-    "image": "./assets/images/Fifi.jpg",
+    "image": "./assets/images/Fifi.png",
     "name": "Fifi La Fume",
     "clicked": false
   },
@@ -61,7 +61,7 @@
   },
   {
     "id": 11,
-    "image": "./assets/images/TasShe.jpg",
+    "image": "./assets/images/TasShe.png",
     "name": "Tasmanian She Devil",
     "clicked": false
   },

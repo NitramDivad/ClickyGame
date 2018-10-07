@@ -24,7 +24,7 @@ class App extends Component {
 
         if (clickedMatch[0].clicked) {
             currentScore = 0;
-            message = "You already clicked on " + clickedMatch[0].name + "! You can start over by clicking any Looney character."
+            message = "You already clicked on " + clickedMatch[0].name + "...Game Over! You can start over by clicking any Looney character."
 
             this.resetClick();
             this.setTheComponents();
@@ -32,7 +32,7 @@ class App extends Component {
         else if (currentScore < 11) {
             clickedMatch[0].clicked = true;
             currentScore++;
-            message = "You haven't clicked on " + clickedMatch[0].name + " yet, so choose again!";
+            message = "You haven't clicked on " + clickedMatch[0].name + " yet, so you can choose again!";
 
             if (currentScore > topScore) {
                 topScore = currentScore;
@@ -79,7 +79,7 @@ class App extends Component {
             <Main>
                 <Title>
                     <div className="jumbotron">
-                        <h1>Looney Tunes Clicky Game</h1>
+                        <h1>Looney Tunes Clicky Memory Game</h1>
                         <hr className="blankLine"></hr>
                         <h4 className="scoreSummary">
                             {this.state.message}
