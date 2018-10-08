@@ -1,3 +1,7 @@
+body {
+  background-color: lightblue;
+}
+
 .title {
   width: 100%;
   text-align: center;
@@ -13,4 +17,3 @@
 .blankLine {
   margin-bottom: 40px;
 }
-

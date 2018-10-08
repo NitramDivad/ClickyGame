@@ -43,7 +43,6 @@ class App extends Component {
             this.setTheComponents();
         }
         else {
-            //clickedMatch[0].clicked = true;
             currentScore = 0;
 
             message = "Congratulations!! You got a perfect score! Click any Looney character to play again.";
