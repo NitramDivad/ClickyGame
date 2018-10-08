@@ -34,6 +34,6 @@ The app requirements are:
 
 ## **Links:** #
 
-| [Clicky Game Site](https://fierce-tor-40499.herokuapp.com) | 
+| [Clicky Game Site](https://murmuring-journey-66390.herokuapp.com) | 
 [Portfolio Site](https://nitramdivad.github.io/) | 
 [GitHub](https://github.com/nitramdivad) |
