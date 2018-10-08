@@ -24,7 +24,7 @@ The app requirements are:
     * HTML
     * CSS
     * JavaScript
-    * Node.js
+    * Yarn
     * React
 
 
