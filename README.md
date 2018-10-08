@@ -1,6 +1,4 @@
-# Memory Game leveraging React:  
 # Looney Tunes Clicky Game!
-
 
 # ** Clicky Game Details
 
